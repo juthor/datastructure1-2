@@ -1,4 +1,4 @@
-# datastructure1-2
+# datastructure1-2, 5보다 큰 홀수가 세 소수의 합으로 표현될지 판별하기
 If there are three decimal numbers, the smallest decimal number is the smallest decimal number.
 
 Definition 5보다 큰 홀수가 주어질 때, 이 수가 세 소수의 합으로 표현할 수 있는지를 판별해야한다.(같은 소수를 여러 번 사용할 수 있다. )
